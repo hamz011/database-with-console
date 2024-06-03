@@ -1,0 +1,7 @@
+C:\Users\hamza\OneDrive\Desktop\Yazılım\C#\Database_withConsoel\bin\Debug\Database_withConsoel.exe.config
+C:\Users\hamza\OneDrive\Desktop\Yazılım\C#\Database_withConsoel\bin\Debug\Database_withConsoel.exe
+C:\Users\hamza\OneDrive\Desktop\Yazılım\C#\Database_withConsoel\bin\Debug\Database_withConsoel.pdb
+C:\Users\hamza\OneDrive\Desktop\Yazılım\C#\Database_withConsoel\obj\Debug\Database_withConsoel.csproj.AssemblyReference.cache
+C:\Users\hamza\OneDrive\Desktop\Yazılım\C#\Database_withConsoel\obj\Debug\Database_withConsoel.csproj.CoreCompileInputs.cache
+C:\Users\hamza\OneDrive\Desktop\Yazılım\C#\Database_withConsoel\obj\Debug\Database_withConsoel.exe
+C:\Users\hamza\OneDrive\Desktop\Yazılım\C#\Database_withConsoel\obj\Debug\Database_withConsoel.pdb
